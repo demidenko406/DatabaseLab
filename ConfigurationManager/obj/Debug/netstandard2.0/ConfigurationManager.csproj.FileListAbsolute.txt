@@ -1,0 +1,9 @@
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\bin\Debug\netstandard2.0\ConfigurationManager.deps.json
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\bin\Debug\netstandard2.0\ConfigurationManager.dll
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\bin\Debug\netstandard2.0\ConfigurationManager.pdb
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.csprojAssemblyReference.cache
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.AssemblyInfoInputs.cache
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.AssemblyInfo.cs
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.dll
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.pdb
+C:\Workspace\Study\ISP\DatabaseLab\ConfigurationManager\obj\Debug\netstandard2.0\ConfigurationManager.csproj.CoreCompileInputs.cache

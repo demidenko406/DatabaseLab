@@ -1,0 +1,15 @@
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\Northwind.ServiceLayer.dll
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\Northwind.ServiceLayer.pdb
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\ConfigurationManager.dll
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\Northwind.DataAccess.dll
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\Northwind.Models.dll
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\ConfigurationManager.pdb
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\Northwind.DataAccess.pdb
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\Northwind.Models.pdb
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\obj\Debug\Northwind.ServiceLayer.dll
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\obj\Debug\Northwind.ServiceLayer.pdb
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Workspace\Study\ISP\DatabaseLab\ServiceLayer\bin\Debug\System.Data.SqlClient.xml

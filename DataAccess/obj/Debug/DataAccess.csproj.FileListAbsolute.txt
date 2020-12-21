@@ -1,0 +1,13 @@
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\bin\Debug\ConfigurationManager.dll
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\bin\Debug\Northwind.Models.dll
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\bin\Debug\ConfigurationManager.pdb
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\bin\Debug\Northwind.Models.pdb
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\bin\Debug\System.Data.SqlClient.dll
+C:\Workspace\Study\ISP\DatabaseLab\DataAccess\bin\Debug\System.Data.SqlClient.xml

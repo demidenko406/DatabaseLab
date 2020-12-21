@@ -1,0 +1,21 @@
+﻿Выполняется установка сборки 'C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.exe
+   logfile = C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.exe
+   logfile = C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.InstallLog
+Выполняется удаление сборки 'C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.exe
+   logfile = C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.

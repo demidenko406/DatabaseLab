@@ -1,0 +1,12 @@
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\obj\Debug\Northwind.FileManager.exe
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\obj\Debug\Northwind.FileManager.pdb
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\bin\Debug\Northwind.FileManager.exe.config
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\bin\Debug\Northwind.FileManager.exe
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\bin\Debug\Northwind.FileManager.pdb
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\bin\Debug\ConfigurationManager.dll
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\bin\Debug\ConfigurationManager.pdb
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\bin\Debug\System.Data.SqlClient.dll
+C:\Workspace\Study\ISP\DatabaseLab\FileManager\bin\Debug\System.Data.SqlClient.xml

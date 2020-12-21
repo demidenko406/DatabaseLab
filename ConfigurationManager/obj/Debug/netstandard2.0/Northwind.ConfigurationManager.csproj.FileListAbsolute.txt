@@ -1,0 +1,9 @@
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\bin\Debug\netstandard2.0\Northwind.ConfigurationManager.deps.json
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\bin\Debug\netstandard2.0\Northwind.ConfigurationManager.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\bin\Debug\netstandard2.0\Northwind.ConfigurationManager.pdb
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\obj\Debug\netstandard2.0\Northwind.ConfigurationManager.csprojAssemblyReference.cache
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\obj\Debug\netstandard2.0\Northwind.ConfigurationManager.AssemblyInfoInputs.cache
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\obj\Debug\netstandard2.0\Northwind.ConfigurationManager.AssemblyInfo.cs
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\obj\Debug\netstandard2.0\Northwind.ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\obj\Debug\netstandard2.0\Northwind.ConfigurationManager.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.ConfigurationManager\obj\Debug\netstandard2.0\Northwind.ConfigurationManager.pdb

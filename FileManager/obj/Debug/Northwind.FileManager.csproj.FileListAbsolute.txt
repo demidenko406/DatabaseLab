@@ -1,0 +1,10 @@
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.exe.config
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.exe
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.FileManager.pdb
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.ConfigurationManager.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\bin\Debug\Northwind.ConfigurationManager.pdb
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\obj\Debug\Northwind.FileManager.csprojAssemblyReference.cache
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\obj\Debug\Northwind.FileManager.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\obj\Debug\Northwind.FileManager.csproj.CopyComplete
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\obj\Debug\Northwind.FileManager.exe
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.FileManager\obj\Debug\Northwind.FileManager.pdb

@@ -1,0 +1,11 @@
+C:\Workspace\Study\ISP\DatabaseLab\Models\bin\Debug\Northwind.Models.dll
+C:\Workspace\Study\ISP\DatabaseLab\Models\bin\Debug\Northwind.Models.pdb
+C:\Workspace\Study\ISP\DatabaseLab\Models\bin\Debug\ConfigurationManager.dll
+C:\Workspace\Study\ISP\DatabaseLab\Models\bin\Debug\ConfigurationManager.pdb
+C:\Workspace\Study\ISP\DatabaseLab\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Workspace\Study\ISP\DatabaseLab\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\ISP\DatabaseLab\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Workspace\Study\ISP\DatabaseLab\Models\obj\Debug\Northwind.Models.dll
+C:\Workspace\Study\ISP\DatabaseLab\Models\obj\Debug\Northwind.Models.pdb
+C:\Workspace\Study\ISP\DatabaseLab\Models\bin\Debug\System.Data.SqlClient.dll
+C:\Workspace\Study\ISP\DatabaseLab\Models\bin\Debug\System.Data.SqlClient.xml

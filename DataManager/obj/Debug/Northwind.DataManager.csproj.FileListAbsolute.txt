@@ -1,0 +1,15 @@
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.DataManager.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.DataManager.pdb
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.ConfigurationManager.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.DataAccess.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.Models.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.ServiceLayer.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.ConfigurationManager.pdb
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.DataAccess.pdb
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.Models.pdb
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\bin\Debug\Northwind.ServiceLayer.pdb
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\obj\Debug\Northwind.DataManager.csprojAssemblyReference.cache
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\obj\Debug\Northwind.DataManager.csproj.CoreCompileInputs.cache
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\obj\Debug\Northwind.DataManager.csproj.CopyComplete
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\obj\Debug\Northwind.DataManager.dll
+C:\Workspace\Study\ISP\AdvetureWorks-master\Northwind.DataManager\obj\Debug\Northwind.DataManager.pdb
